@@ -1,14 +1,5 @@
-# .
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+# Конвертер валют
+на основе <a href="https://github.com/coinconvert/crypto-convert">этой</a> библиотеки
 
 ## Project Setup
 
@@ -27,3 +18,4 @@ npm run dev
 ```sh
 npm run build
 ```
+![Снимок экрана (200)](https://github.com/AntonKulagin/convert-crypto-Vue/assets/89462331/b7899be1-9ab8-4ef4-b35b-6ce18bff3845)
